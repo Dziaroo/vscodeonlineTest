@@ -1,1 +1,1 @@
-let iputName = document.getElementsByClassName('.input_name');
+let iputName = document.querySelector('.input_name');
