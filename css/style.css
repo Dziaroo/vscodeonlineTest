@@ -10,3 +10,10 @@ h1 {
     color: red;
     text-align: center;
 }
+
+.body_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #444;
+}
